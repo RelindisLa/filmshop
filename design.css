@@ -16,8 +16,9 @@
 	      font-size: 120%;
 	      text-align:center;
 	     }
-      column {float: left;
-             width: 48%;
+     .column { float: left;
+  width: 50%;
+  padding: 10px;
              }
       border { border-width:1px;
                border-style:solid;
